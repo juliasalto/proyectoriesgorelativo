@@ -1,7 +1,8 @@
 # Proyecto 3: Riesgo relativo
 1. [Ficha técnica](#ficha-técnica-proyecto-de-análisis-de-datos)
 2. [Limpieza y EDA](limpieza_y_EDA_dataset_banco.ipynb)
-3. [Regresión logística](hito_3_regresion_logistica.ipynb)
+3. [Score crediticio](hito_2_score.ipynb)
+4. [Regresión logística](hito_3_regresion_logistica.ipynb)
 
 
 # Ficha Técnica: Proyecto de Análisis de Datos
