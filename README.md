@@ -10,8 +10,8 @@
   
 - Enlaces de interés:
     - [Dashboard en Looker Studio](https://lookerstudio.google.com/reporting/dcc2623b-bdec-4d52-8b76-c26513140f85)
-    - [Presentación](https://drive.google.com/file/d/1bsM08YrfMaNCngJQjkju52jtgrDTvnZL/view?usp=sharing)
-    - [Video presentación](https://www.loom.com/share/cefa07de469041f79c391fc519218b3e?sid=5fdafcd1-ec99-491d-8354-9746024ba5a1)
+    - [Presentación](https://drive.google.com/file/d/1iQAQyOKpjVbo8Yeg9dxmHpz1fC0QLpqJ/view?usp=sharing)
+    - [Video presentación](https://www.loom.com/share/0095f77fe38449ec986abeee3a325b61?sid=8bfb6605-30bc-4737-bfd0-67180077c661)
     - [Hoja de cálculo con cálculos de riesgos relativos](https://docs.google.com/spreadsheets/d/1Fkjf9YsDGJ-QDI_h1pUsP88Xc_O9GHVL4ooqc07GK7w/edit?usp=sharing)
  
 - **Objetivo:**
